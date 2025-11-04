@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fried Egg
+* source:	https://sketchfab.com/3d-models/fried-egg-c8e9a2e7c38449ada278b4ecfc21b4af
+* author:	Vicale200 (https://sketchfab.com/vicale200)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fried Egg" (https://sketchfab.com/3d-models/fried-egg-c8e9a2e7c38449ada278b4ecfc21b4af) by Vicale200 (https://sketchfab.com/vicale200) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
