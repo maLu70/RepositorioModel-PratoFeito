@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fried Fish
+* source:	https://sketchfab.com/3d-models/fried-fish-85b11db61edd4203818be8cf236ffc36
+* author:	_alice_wang_ (https://sketchfab.com/alice_wang_1997)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fried Fish" (https://sketchfab.com/3d-models/fried-fish-85b11db61edd4203818be8cf236ffc36) by _alice_wang_ (https://sketchfab.com/alice_wang_1997) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
