@@ -1,0 +1,11 @@
+Model Information:
+* title:	kat-banana-slice
+* source:	https://sketchfab.com/3d-models/kat-banana-slice-2b59208155694bfa84f7547d0fce5046
+* author:	kat_hari (https://sketchfab.com/kat_hari)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "kat-banana-slice" (https://sketchfab.com/3d-models/kat-banana-slice-2b59208155694bfa84f7547d0fce5046) by kat_hari (https://sketchfab.com/kat_hari) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

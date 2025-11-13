@@ -1,0 +1,370 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 328,
+      "max": [
+        -25.16019058227539,
+        9.99266242980957,
+        8.0
+      ],
+      "min": [
+        -45.1308479309082,
+        -9.99266242980957,
+        0.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3936,
+      "componentType": 5126,
+      "count": 328,
+      "max": [
+        0.9996725916862488,
+        0.999919056892395,
+        1.0
+      ],
+      "min": [
+        -0.9996727108955383,
+        -0.999919056892395,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 984,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 7872,
+      "componentType": 5126,
+      "count": 560,
+      "max": [
+        -25.45931053161621,
+        9.69288158416748,
+        8.0
+      ],
+      "min": [
+        -44.83085250854492,
+        -9.69288158416748,
+        0.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 14592,
+      "componentType": 5126,
+      "count": 560,
+      "max": [
+        0.9998487830162048,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.9996725916862488,
+        -0.999919056892395,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 3936,
+      "componentType": 5125,
+      "count": 1704,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 21312,
+      "componentType": 5126,
+      "count": 1291,
+      "max": [
+        -30.58903694152832,
+        4.514533042907715,
+        8.0
+      ],
+      "min": [
+        -39.39364242553711,
+        -4.648112773895264,
+        0.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 36804,
+      "componentType": 5126,
+      "count": 1291,
+      "max": [
+        1.0,
+        0.9999901056289673,
+        1.0
+      ],
+      "min": [
+        -0.9999977946281433,
+        -0.9999873638153076,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 10752,
+      "componentType": 5125,
+      "count": 4350,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 52296,
+      "componentType": 5126,
+      "count": 643,
+      "max": [
+        -32.82802200317383,
+        2.7223739624023438,
+        8.0
+      ],
+      "min": [
+        -37.65090560913086,
+        -2.3207919597625732,
+        0.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 60012,
+      "componentType": 5126,
+      "count": 643,
+      "max": [
+        0.9999774694442749,
+        0.9996984004974365,
+        1.0
+      ],
+      "min": [
+        -0.9999977946281433,
+        -0.9999901056289673,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 28152,
+      "componentType": 5125,
+      "count": 2310,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "kat_hari (https://sketchfab.com/kat_hari)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/kat-banana-slice-2b59208155694bfa84f7547d0fce5046",
+      "title": "kat-banana-slice"
+    },
+    "generator": "Sketchfab-16.72.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 37392,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 67728,
+      "byteOffset": 37392,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 105120,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "ABS_Wei",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.938685728457888,
+          0.8148465722161012,
+          0.5149176653765214,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "ABS_Wei_1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8307698767746546,
+          0.665387298282272,
+          0.3564001441459435,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "ABS_Wei_2",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8962693533742664,
+          0.7991027380144088,
+          0.552011401512,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "ABS_Wei_3",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5149176653765214,
+          0.33245153634617935,
+          0.030713443732993628,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6
+          },
+          "indices": 8,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_3",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9
+          },
+          "indices": 11,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.0,
+        -4.440892098500626e-16,
+        0.0,
+        0.0,
+        4.440892098500626e-16,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "kat-Banana-slice.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    },
+    {
+      "mesh": 2,
+      "name": "Object_4"
+    },
+    {
+      "mesh": 3,
+      "name": "Object_5"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
