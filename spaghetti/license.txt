@@ -1,0 +1,11 @@
+Model Information:
+* title:	Spaghetti served with Kebabs
+* source:	https://sketchfab.com/3d-models/spaghetti-served-with-kebabs-756bd394f19f40a0985a1c6310065005
+* author:	JessThe3dDemon (https://sketchfab.com/JessThe3dDemon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Spaghetti served with Kebabs" (https://sketchfab.com/3d-models/spaghetti-served-with-kebabs-756bd394f19f40a0985a1c6310065005) by JessThe3dDemon (https://sketchfab.com/JessThe3dDemon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

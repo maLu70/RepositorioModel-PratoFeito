@@ -1,0 +1,11 @@
+Model Information:
+* title:	African Cabbage
+* source:	https://sketchfab.com/3d-models/african-cabbage-ce4fdcfdd87b43e98a1444fd9b3328e5
+* author:	onecirclefilms (https://sketchfab.com/onecirclefilms)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "African Cabbage" (https://sketchfab.com/3d-models/african-cabbage-ce4fdcfdd87b43e98a1444fd9b3328e5) by onecirclefilms (https://sketchfab.com/onecirclefilms) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
